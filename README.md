@@ -14,7 +14,7 @@ A modern, responsive Body Mass Index (BMI) calculator web application with real-
 
 ## 🌐 Live Demo
 
-**[View Live Demo](https://your-vercel-app-url.vercel.app)**
+**[View Live Demo](https://bmi-calculator-phi-topaz.vercel.app/)**
 
 Try the BMI Calculator live! Click the link above to access the deployed application and calculate your BMI instantly with our beautiful, interactive interface.
 
